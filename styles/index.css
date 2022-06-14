@@ -1,0 +1,10 @@
+@import "https://unpkg.com/open-props";
+
+body {
+  background: var(--yellow-0);
+  font-family: var(--font-sans);
+}
+
+p {
+  font-size: var(--font-size-3);
+}
